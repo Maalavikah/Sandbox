@@ -143,7 +143,3 @@ Rename adapter names as needed to match network roles.
 2. **Gateway VM (Ubuntu Server)**: Ensure proper routing between the Desktop and Application VMs, and internet access via NAT.
 3. **Application VM (Bitnami Debian WordPress)**: Confirm communication with the Gateway VM and successful access to hosted WordPress services.
 
-Videos demonstrating functional tests for all VMs are available:
-- Video 1: Desktop VM
-- Video 2: Gateway VM
-- Video 3: Application VM
